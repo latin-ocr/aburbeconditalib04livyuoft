@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aburbeconditalib04livyuoft_0002.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 697 1077 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 697 1077 1221">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 697 1077 1221; baseline 0 1399"><span class='ocrx_word' id='word_1_1' title='bbox 588 697 1077 1221; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 776 1575 901 1625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 776 1575 901 1625">
+     <span class='ocr_line' id='line_1_2' title="bbox 776 1575 901 1625; baseline -0.008 -11"><span class='ocrx_word' id='word_1_2' title='bbox 776 1575 820 1614; x_wconf 76' lang='lat' dir='ltr'>uf</span> <span class='ocrx_word' id='word_1_3' title='bbox 837 1575 901 1625; x_wconf 59' lang='lat'>1112</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 473 1652 1204 1840">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 473 1652 1204 1840">
+     <span class='ocr_line' id='line_1_3' title="bbox 473 1652 1204 1745; baseline -0.001 -23"><span class='ocrx_word' id='word_1_4' title='bbox 473 1652 818 1745; x_wconf 55' lang='grc' dir='ltr'>ᾏΗηίυεῑειίῒξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 845 1654 909 1721; x_wconf 73' lang='lat' dir='ltr'>uf</span> <span class='ocrx_word' id='word_1_6' title='bbox 930 1653 1204 1724; x_wconf 65' lang='lat' dir='ltr'>OEnrunin</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 813 1786 864 1840; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 813 1786 864 1840; x_wconf 54' lang='grc' dir='ltr'>ΒΕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 385 1884 1041 2004">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 385 1884 1041 2004">
+     <span class='ocr_line' id='line_1_5' title="bbox 385 1884 1001 1937; baseline 0.005 -15"><span class='ocrx_word' id='word_1_8' title='bbox 385 1884 638 1926; x_wconf 65' lang='lat' dir='ltr'>Bernhard</span> <span class='ocrx_word' id='word_1_9' title='bbox 681 1884 1001 1937; x_wconf 53' lang='lat' dir='ltr'>Tauohnihz,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 814 1948 1041 2004; baseline 0.004 -16"><span class='ocrx_word' id='word_1_10' title='bbox 814 1948 1041 2004; x_wconf 63' lang='lat' dir='ltr'>Leipzig</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
